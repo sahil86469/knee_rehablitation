@@ -2,7 +2,7 @@ Knee injuries and impairments are common throughout the world, demanding effecti
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/a53194b3-1829-49af-be32-cbcb204238ba)
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/2c71c4b4-a4a7-4785-ae21-1366fb20eec8)
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/40801c06-60b3-4831-ae85-0aca0982a3d4)
-
+the above were the sleeping design done after researching a long time this was desgined to release in the market as the previous desgin had some inor issues or stabality and control.
 ![final model](https://github.com/sahil86469/knee_rehablitation/assets/158127073/b3d8af5e-6a01-4e7f-b7ac-6809565e3554)
 ![IMG20230515141513](https://github.com/sahil86469/knee_rehablitation/assets/158127073/8aac8812-e8db-4a56-a9b7-4aac6b4ba864)
 ![Screenshot 2023-05-12 003057](https://github.com/sahil86469/knee_rehablitation/assets/158127073/835f4d07-71d3-44fb-984a-453e4822618a)
