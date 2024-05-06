@@ -11,6 +11,9 @@
 ![Screenshot 2023-10-18 132637](https://github.com/sahil86469/knee_rehablitation/assets/158127073/5fb96125-5b8f-45ec-a74d-4fafee4c8cbe)
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/ca38c9a8-eead-4f81-8701-23a85f6e9fac)
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/00f40aa4-65de-4298-a7a3-0a469c497a13)
+
+
+
 Activation Function	Epoch	Test loss	Test accuracy
 Relu	100	3.48	0.56
 Relu	50	2.82	0.53
