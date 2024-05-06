@@ -10,11 +10,9 @@ the above were the sleeping design done after researching a long time this was d
 ![Screenshot 2023-05-13 145817](https://github.com/sahil86469/knee_rehablitation/assets/158127073/d9508cf4-2755-4804-8c98-6e0b2bf6719a)
 ![Untitled drawing (4)](https://github.com/sahil86469/knee_rehablitation/assets/158127073/2d5a2e54-5adb-4e1b-a33b-379100ed8d8f)
 ![Screenshot 2023-10-18 132637](https://github.com/sahil86469/knee_rehablitation/assets/158127073/5fb96125-5b8f-45ec-a74d-4fafee4c8cbe)
+the AI model is designed to find the knee oestorisis so that the patients data can be changed accordingly as it hinders the knee movement. 
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/ca38c9a8-eead-4f81-8701-23a85f6e9fac)
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/00f40aa4-65de-4298-a7a3-0a469c497a13)
-
-
-
 ![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/5e0a804b-8d58-437d-95e3-7657630e344a)
 
 
