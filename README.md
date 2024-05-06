@@ -14,11 +14,6 @@
 
 
 
-Activation Function	Epoch	Test loss	Test accuracy
-Relu	100	3.48	0.56
-Relu	50	2.82	0.53
-Linear	100	3.71	0.47
-Linear	50	3.11	0.46
-LeakyRelu	100	4.58	0.52
-LeakyRelu	50	3.08	0.50
+![image](https://github.com/sahil86469/knee_rehablitation/assets/158127073/5e0a804b-8d58-437d-95e3-7657630e344a)
+
 
